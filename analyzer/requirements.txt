@@ -1,0 +1,7 @@
+aylien-apiclient==0.7.0
+indicoio==1.1.5
+matplotlib==2.2.3
+colorthief==0.2.1
+colorgram.py==1.1.0
+Pillow==2.8.1
+scikit-image==0.14.0
